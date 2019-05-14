@@ -1,0 +1,23 @@
+.padding-default {
+  margin: 16px;
+}
+
+.padding-specific-left {
+  margin-left: 16px;
+}
+
+.div-size { 
+  margin-top: 24px;
+  height: 80%; 
+  width: 80%; 
+  top: 10%; 
+  left: 10%; 
+}
+
+.margin-bottom-default {
+  margin-bottom: 24px;
+}
+
+.img-center {
+  width: 400px;
+}
